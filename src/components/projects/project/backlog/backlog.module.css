@@ -1,0 +1,17 @@
+.Nav {
+  font-size: 20px;
+  color: #8884f7;
+  display: flex;
+  justify-content: space-evenly;
+  box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 1px;
+  padding: 10px;
+}
+
+.title {
+  padding-top: 1%;
+  text-align: center;
+}
+
+.SearchBar {
+  padding-top: 2%;
+}

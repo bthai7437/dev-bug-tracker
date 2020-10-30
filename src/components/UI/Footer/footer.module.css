@@ -1,0 +1,10 @@
+.footer {
+  margin: 0px;
+
+  border-top: rgba(0, 0, 0, 0.2) solid 1px;
+  padding-top: 2%;
+
+  background-color: #272645;
+  color: #8884f7;
+  text-align: center;
+}

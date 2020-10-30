@@ -1,0 +1,41 @@
+.navButton {
+  background-color: inherit;
+  color: #8884f7;
+  border: 1px solid;
+  width: 90%;
+  border-radius: 0.25em;
+  height: 2.5em;
+  margin-left: 1%;
+}
+
+.navButton:active,
+.navButton:focus,
+.navButton:hover {
+  color: white;
+}
+
+.active {
+  background-color: #c88dd8;
+}
+
+.navList {
+  display: none;
+}
+
+@media (min-width: 770px) {
+  .navList {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    list-style: none;
+    text-align: center;
+    padding: 0px;
+    height: 100%;
+  }
+}
+
+@media (min-width: 1025px) {
+  .navList {
+    font-size: 20px;
+  }
+}

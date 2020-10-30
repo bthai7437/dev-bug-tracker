@@ -1,0 +1,7 @@
+export const PROJECT_NAME = "PROJECT_NAME";
+export const PROJECT_TYPE = "PROJECT_TYPE";
+export const PROJECT_LEADER = "PROJECT_LEADER";
+export const PROJECT_TEAM = "PROJECT_TEAM";
+export const PROJECT_FRONT = "PROJECT_FRONT";
+export const PROJECT_BACK = "PROJECT_BACK";
+export const PROJECT_DATA = "PROJECT_DATA";

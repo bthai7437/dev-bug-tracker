@@ -1,0 +1,30 @@
+.Login {
+  width: 60%;
+  box-sizing: border-box;
+  margin: auto;
+  margin-top: 50px;
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+}
+
+.btnPrimary {
+  background-color: inherit;
+  border-color: inherit;
+  font-weight: 10px;
+  color: #8884f7;
+  border: 1px solid;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+}
+
+.btnPrimary:hover {
+  background-color: #ac7dd8;
+  color: white;
+  border-color: #8884f7;
+}
+
+.userErr {
+  color: red;
+  padding-top: 2%;
+}
